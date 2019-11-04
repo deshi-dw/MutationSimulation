@@ -1,2 +1,5 @@
 # MutationSimulation
- A web app using p5js in order to simulate genetic mutation in a very simple form.
+## Controls
+Use the `scroll wheel` to zoom the camera in and out.
+
+Hold the `space bar` to pan the camera.
